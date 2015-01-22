@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaperIT", "PaperIT\PaperIT.csproj", "{9CF63AE6-85B4-492F-83F9-AD4804C70DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{8E296C34-743E-4781-8E36-06178C969DA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E296C34-743E-4781-8E36-06178C969DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E296C34-743E-4781-8E36-06178C969DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E296C34-743E-4781-8E36-06178C969DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E296C34-743E-4781-8E36-06178C969DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF63AE6-85B4-492F-83F9-AD4804C70DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF63AE6-85B4-492F-83F9-AD4804C70DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF63AE6-85B4-492F-83F9-AD4804C70DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF63AE6-85B4-492F-83F9-AD4804C70DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+/Users/MaurilioFilho/Repositorio/GitHub/PaperIT/Shared/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/MaurilioFilho/Repositorio/GitHub/PaperIT/Shared/bin/Debug/Shared.dll.mdb
+/Users/MaurilioFilho/Repositorio/GitHub/PaperIT/Shared/bin/Debug/Shared.dll
+/Users/MaurilioFilho/Repositorio/GitHub/PaperIT/Shared/obj/Debug/Shared.dll
+/Users/MaurilioFilho/Repositorio/GitHub/PaperIT/Shared/obj/Debug/Shared.dll.mdb
+/Users/MaurilioFilho/Repositorio/GitHub/PaperIT/Shared/bin/Debug/Newtonsoft.Json.dll
+/Users/MaurilioFilho/Repositorio/GitHub/PaperIT/Shared/bin/Debug/System.Net.Http.dll
+/Users/MaurilioFilho/Repositorio/GitHub/PaperIT/Shared/bin/Debug/System.Net.Http.Primitives.dll
+/Users/MaurilioFilho/Repositorio/GitHub/PaperIT/Shared/bin/Debug/System.Net.Http.Extensions.dll
