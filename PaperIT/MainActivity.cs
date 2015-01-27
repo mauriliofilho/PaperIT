@@ -26,7 +26,7 @@ namespace PaperIT
 
 			btnSearch.Click += async (sender, e) => {
 				var itEbook_api = new Shared.itEbook_api();
-				var booksIT = await itEbook_api.GetAsync(txtBook.Text);
+				var booksIT = itEbook_api.GetAsync(txtBook.Text);
 				lswBooks.Adapter = new ArrayAdapter(this, Android.Resource.Layout.SimpleListItemSingleChoice, booksIT);
 
 			};

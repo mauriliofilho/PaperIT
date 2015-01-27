@@ -9,24 +9,28 @@ namespace Shared
 {
 	public class itEbook_api
 	{
-		public async Task<List<string>> GetAsync(string books)
+		public object GetAsync1 (string text)
 		{
-			string url = string.Format("http://it-ebooks-api.info/v1/search/");
+			throw new NotImplementedException ();
+		}
 
-			var client = new HttpClient ();
-			client.DefaultRequestHeaders.Add ("User-Agent", "Other");
+		public class Book
+		{
+			public object ID { get; set; }
+			public string Title { get; set; }
+			public string SubTitle { get; set; }
+			public string Description { get; set; }
+			public string Image { get; set; }
+			public string isbn { get; set; }
+		}
 
-			var response = await client.GetAsync (url);
-			var content = await response.Content.ReadAsStringAsync ();
-
-			var json = JArray.Parse (content);
-
-			var book = new List<string> ();
-			foreach (var item in json) {
-				var booksIT = item.Value<string> ("Title");
-				book.Add (booksIT);
-			}
-			return book;
+		public class RootObject
+		{
+			public string Error { get; set; }
+			public double Time { get; set; }
+			public string Total { get; set; }
+			public int Page { get; set; }
+			public List<Book> Books { get; set; }
 		}
 	}
 }
