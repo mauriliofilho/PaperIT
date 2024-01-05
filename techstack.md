@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mauriliofilho/PaperIT](https://github.com/mauriliofilho/PaperIT)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|11/30/23 <br/>Report generated|
+|11<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -117,7 +117,7 @@ Full tech stack [here](/techstack.md)
 |[Microsoft.Bcl](https://www.nuget.org/Microsoft.Bcl)|v1.1.9|01/22/15|MFilho |N/A|N/A|
 |[Microsoft.Bcl.Build](https://www.nuget.org/Microsoft.Bcl.Build)|v1.0.14|01/22/15|MFilho |N/A|N/A|
 |[Microsoft.Net.Http](https://www.nuget.org/Microsoft.Net.Http)|v2.2.28|01/22/15|MFilho |Apache-2.0|N/A|
-|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v6.0.8|01/22/15|MFilho |MIT|[](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
+|[Newtonsoft.Json](https://www.nuget.org/Newtonsoft.Json)|v6.0.8|01/22/15|MFilho |MIT|[](https://github.com/advisories/GHSA-8rfx-6mr3-5jh3) (High)<br/>[CVE-2024-21907](https://github.com/advisories/GHSA-5crp-9r3c-p9vr) (High)|
 
 <br/>
 <div align='center'>
